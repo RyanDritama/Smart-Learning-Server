@@ -1,0 +1,2 @@
+# Smart-Learning-Server
+This source code functions as a passive server and database management of the Smart Learning application. Smart learning is a network application to manage these important processes, including documentation of class members, documentation of class/lecture schedules, attendance/attendance, attendance percentage records, assignment notifications, and exam schedule documentation.
